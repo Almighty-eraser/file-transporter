@@ -1,0 +1,3 @@
+﻿  client.c
+C:\Users\영어가 안쳐져\source\repos\Almighty-eraser\file-transporter\File-Transport-\client\client.c(59,37): warning C4133: '함수': 'long *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  client.vcxproj -> C:\Users\영어가 안쳐져\source\repos\Almighty-eraser\file-transporter\File-Transport-\Debug\client.exe
